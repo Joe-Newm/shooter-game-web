@@ -13,6 +13,8 @@ map/background1.aseprite
 map/background1.png
 map/mainmenu.aseprite
 map/mainmenu.png
+map/pausemenu-export.png
+map/pausemenu.png
 music/air-combat.mp3
 music/last-days.mp3
 objects/assault-rifle.aseprite
