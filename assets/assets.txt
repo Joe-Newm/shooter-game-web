@@ -1,5 +1,5 @@
 d:assets:assets:0:application/unknown:1
-t:assets.txt:assets-af5179ad59245b2c81649b6234078945.txt:1559:text/plain:1
+t:assets.txt:assets-23939c485433ba47ab9f5577b87b43f8.txt:1657:text/plain:1
 d:enemy:enemy:0:application/unknown:1
 b:enemy/blood.aseprite:enemy/blood-2ddb4febb0d092b800104b4306499810.aseprite:584:application/unknown:1
 i:enemy/blood.png:enemy/blood-18c0bb61c387c705cb832245c0afa137.png:668:image/png:1
@@ -12,6 +12,8 @@ b:enemy/zombie-2.aseprite:enemy/zombie-2-6fc9d8f91970195bf0e37e8fd4f0670b.asepri
 i:enemy/zombie-2.png:enemy/zombie-2-ec43d3756dc2edbf37954951edfd8dad.png:575:image/png:1
 b:enemy/zombie-3.aseprite:enemy/zombie-3-ebf44c7f99f3042a894182a619676a93.aseprite:493:application/unknown:1
 i:enemy/zombie-3.png:enemy/zombie-3-f2727957dbd9d595b71cd00f33b8c462.png:478:image/png:1
+b:enemy/zombie-4.aseprite:enemy/zombie-4-4096d65af0f948bfc435475c8c6d0d11.aseprite:499:application/unknown:1
+i:enemy/zombie-4.png:enemy/zombie-4-c4c1de99ed41348bd42dc14a6fade8da.png:465:image/png:1
 i:enemy/zombie-flash.png:enemy/zombie-flash-34b40ae65863640d5a6ea9c1272748b7.png:263:image/png:1
 b:enemy/zombie.aseprite:enemy/zombie-882b14f28cede294d22edbcd6ff1b28d.aseprite:490:application/unknown:1
 i:enemy/zombie.png:enemy/zombie-88bc48ce69c951eff87c5e1a8e857ca0.png:454:image/png:1
@@ -45,6 +47,8 @@ i:objects/shotgun.png:objects/shotgun-2baa9a51b76eddaeaa5996968b1a9e11.png:210:i
 d:player:player:0:application/unknown:1
 i:player/assault_player.png:player/assault_player-4679394560085ac6e3d0f1c1d6f421a1.png:400:image/png:1
 i:player/bullet.png:player/bullet-51c4c44a17993c88c388810d324d7458.png:93:image/png:1
+i:player/enemy-bullet-export.png:player/enemy-bullet-export-72eec236e3235de88fa98f988ff52382.png:149:image/png:1
+i:player/enemy-bullet.png:player/enemy-bullet-70de67795a5c9ad69a57e14371c36a5c.png:137:image/png:1
 i:player/libgdx.png:player/libgdx-3708f33d27b8977682d1bc8504e6a821.png:2458:image/png:1
 i:player/player-pistol.png:player/player-pistol-1de0c12c8e7ca0cdd8b207348ebdef57.png:389:image/png:1
 i:player/player.png:player/player-70dd8bbee455a966d98a937095939760.png:230:image/png:1

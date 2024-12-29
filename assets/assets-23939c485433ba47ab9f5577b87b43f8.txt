@@ -8,6 +8,8 @@ enemy/zombie-2.aseprite
 enemy/zombie-2.png
 enemy/zombie-3.aseprite
 enemy/zombie-3.png
+enemy/zombie-4.aseprite
+enemy/zombie-4.png
 enemy/zombie-flash.png
 enemy/zombie.aseprite
 enemy/zombie.png
@@ -37,6 +39,8 @@ objects/shotgun.aseprite
 objects/shotgun.png
 player/assault_player.png
 player/bullet.png
+player/enemy-bullet-export.png
+player/enemy-bullet.png
 player/libgdx.png
 player/player-pistol.png
 player/player.png
